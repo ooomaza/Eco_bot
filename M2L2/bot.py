@@ -38,4 +38,4 @@ async def eco(ctx):
     ]
     await ctx.send(f'Рандомный факт: {random.choice(facts)}')
 
-bot.run('MTI0OTAwMDkzMTQ5NzA4NzAwNg.G6cg6-.L8RBzpw56Ab3s-dz1jKqMkvHzHNMCYlh18tLco')
+bot.run('ВАШ ЖОСК ТОКЕН')
